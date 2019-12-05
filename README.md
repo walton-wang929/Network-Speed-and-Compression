@@ -3,6 +3,7 @@
 - https://github.com/yihui-he/channel-pruning
 
 ### Network Compression
+- [awesome-model-compression-resource](https://github.com/ChanChiChoi/awesome-model-compression)
 - [Learning both Weights and Connections for Efficient Neural Network.](https://arxiv.org/pdf/1506.02626.pdf)
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.](http://arxiv.org/abs/1510.00149)
 - [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.](http://arxiv.org/abs/1602.07360)
